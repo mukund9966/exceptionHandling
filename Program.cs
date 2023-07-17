@@ -52,12 +52,12 @@ namespace ExceptionHandling12
 
             if (name.Length < 6)
             {
-                throw new ValidationException("Name should have at least 6 characters.");
+                throw new ValidationException("Name should have 6 chararcters");
             }
 
             if (password.Length < 6)
             {
-                throw new ValidationException("Password should have at least 6 characters.");
+                throw new ValidationException("Password should have 6 characters");
             }  
         }
     }
