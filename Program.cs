@@ -16,7 +16,7 @@ namespace ExceptionHandling12
             try
             {
                 RegisterUser();
-                Console.WriteLine("User registration successful!");
+                Console.WriteLine("User registration is successful");
             }
             catch (ValidationException ex)
             {
@@ -24,7 +24,7 @@ namespace ExceptionHandling12
             }
             catch (Exception ex)
             {
-                Console.WriteLine("An error occurred: " + ex.Message);
+                Console.WriteLine(" error : " + ex.Message);
             }
 
             Console.ReadKey();
@@ -42,26 +42,13 @@ namespace ExceptionHandling12
             Console.Write("Enter your password: ");
             string password = Console.ReadLine();
 
-            ValidateRegistrationInput(name, email, password);
+            ValidateRegistrationInput(name, password);
 
         }
 
-        public static void ValidateRegistrationInput(string name, string email, string password)
+        public static void ValidateRegistrationInput(string name, string password)
         {
-            if (string.IsNullOrWhiteSpace(name))
-            {
-                throw new ValidationException("Name is required.");
-            }
-
-            if (string.IsNullOrWhiteSpace(email))
-            {
-                throw new ValidationException("Email is required.");
-            }
-
-            if (string.IsNullOrWhiteSpace(password))
-            {
-                throw new ValidationException("Password is required.");
-            }
+           
 
             if (name.Length < 6)
             {
