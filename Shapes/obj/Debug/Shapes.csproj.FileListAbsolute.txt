@@ -1,0 +1,6 @@
+C:\Users\user\Documents\training\Day-1\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\user\Documents\training\Day-1\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\training\Day-1\Shapes\Shapes\bin\Debug\Shapes.dll
+C:\Users\user\Documents\training\Day-1\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\user\Documents\training\Day-1\Shapes\Shapes\obj\Debug\Shapes.dll
+C:\Users\user\Documents\training\Day-1\Shapes\Shapes\obj\Debug\Shapes.pdb
