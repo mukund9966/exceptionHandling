@@ -1,0 +1,8 @@
+C:\Users\user\Documents\training\Day-1\ExceptionHandling12\ExceptionHandling12\bin\Debug\ExceptionHandling12.exe.config
+C:\Users\user\Documents\training\Day-1\ExceptionHandling12\ExceptionHandling12\bin\Debug\ExceptionHandling12.exe
+C:\Users\user\Documents\training\Day-1\ExceptionHandling12\ExceptionHandling12\bin\Debug\ExceptionHandling12.pdb
+C:\Users\user\Documents\training\Day-1\ExceptionHandling12\ExceptionHandling12\obj\Debug\ExceptionHandling12.csproj.AssemblyReference.cache
+C:\Users\user\Documents\training\Day-1\ExceptionHandling12\ExceptionHandling12\obj\Debug\ExceptionHandling12.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\training\Day-1\ExceptionHandling12\ExceptionHandling12\obj\Debug\ExceptionHandling12.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\training\Day-1\ExceptionHandling12\ExceptionHandling12\obj\Debug\ExceptionHandling12.exe
+C:\Users\user\Documents\training\Day-1\ExceptionHandling12\ExceptionHandling12\obj\Debug\ExceptionHandling12.pdb
